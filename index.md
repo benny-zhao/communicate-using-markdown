@@ -7,3 +7,6 @@
 ```
 print('Hello world!')
 ```
+- [ ] Mix flour and water to make dough
+- [ ] Knead dough
+- [ ] Bake dough in oven
